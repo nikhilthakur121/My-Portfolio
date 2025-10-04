@@ -2,7 +2,7 @@ Nikhil Thakur — Personal Portfolio
 
 My Portfolio is a clean, responsive, and modern personal website built to showcase my skills, projects, experience, and contact information. It serves as a digital resume and a hub for anything you’d like to know about me professionally and creatively.
 
-Preview - 
+Preview - https://nikhilthakur121.github.io/My-Portfolio/
 
 🚀 Highlights & Features
 
